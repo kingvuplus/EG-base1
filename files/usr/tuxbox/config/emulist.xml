@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <emulist>
 <emu emulator="Common Interface" osdname="DCCAMD" emuscript="/usr/emu_scripts/dccamd.xml" filecheck=""/>
-<emu emulator="CCcam 2.3.0" osdname="CCCAM" emuscript="/var/emu_scripts/cccam230.xml" filecheck="/var/tuxbox/config/filecheck/cccam_check.xml"/>
 </emulist>
